@@ -1,0 +1,211 @@
+[
+    {
+      "id": 1,
+      "name": "Maria Antonopoulos",
+      "years_of_experience": 12,
+      "likes": 435,
+      "bio": "Maria Antonopoulos is a Mediterranean chef with over a decade of experience. Her passion for food started at a young age when she would help her grandmother cook traditional Greek dishes. She is now known for her unique and creative Mediterranean cuisine that incorporates fresh and healthy ingredients.",
+      "image": "https://media.istockphoto.com/id/690761112/photo/smiling-chef-with-cut-vegetables-in-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=rxXYAbAckX51tOZSx5cQNJh2huKF_ptvnc6eGu2lDO0=",
+      "recipes": [
+        {
+          "id": 1,
+          "name": "Mediterranean Mezze Platter",
+          "ingredients": ["hummus", "tabbouleh", "falafel", "tzatziki", "pita bread", "olives", "grape leaves"],
+          "cooking_method": "Arrange the hummus, tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+          "rating": 4.4,
+          "image": "https://media.istockphoto.com/id/1148039529/photo/middle-eastern-arabic-or-mediterranean-appetizers-table-concept.jpg?b=1&s=170667a&w=0&k=20&c=30VebJCFK2EhPzBWYyH3WmEMEVWP4Kz1AAqvClMEosc="
+        },
+        {
+          "id": 2,
+          "name": "Mediterranean Shakshuka",
+          "ingredients": ["tomatoes", "bell peppers", "onions", "garlic", "eggs", "cumin", "paprika", "crumbled feta cheese", "fresh parsley"],
+          "cooking_method": "Arrange tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+          "rating": 4.7,
+          "image": "https://media.istockphoto.com/id/1266800901/photo/woman-preparing-shakshuka-with-poached-eggs.jpg?b=1&s=170667a&w=0&k=20&c=QZWmRwa_8LMP6BEWNtzEs9PMvWdzBFFXtqvLIubTa7c="
+        },
+        {
+          "id": 3,
+          "name": "Middle Eastern Lamb Kebabs",
+          "ingredients": ["lamb cubes", "onions", "garlic", "lemon juice", "olive oil", "cumin", "coriander", "ground cinnamon", "salt", "black pepper"],
+          "cooking_method": "In a bowl, combine lamb cubes, minced onions, minced garlic, lemon juice, olive oil, cumin, coriander, ground cinnamon, salt, and black pepper. Mix well and let marinate for at least 2 hours. Thread the marinated lamb onto skewers and grill until cooked to desired doneness. Serve with a side of yogurt sauce and warm flatbread.",
+          "rating": 4.9,
+          "image": "https://media.istockphoto.com/id/1289526128/photo/turkish-adana-kebab-with-fresh-vegetables.jpg?b=1&s=170667a&w=0&k=20&c=L6pwHJ_Q9VSfzJYgyfwiCrC2VV8BGtoHg7Qp7wnUm58="
+        }
+      ]
+    },
+    {
+        "id": 2,
+        "name": "Giorgio Bianchi",
+        "years_of_experience": 8,
+        "likes": 298,
+        "bio": "Giorgio Bianchi is a Mediterranean chef specializing in Italian and Mediterranean fusion cuisine. Growing up in the coastal region of Italy, he developed a deep appreciation for fresh seafood and bold flavors. Giorgio's culinary creations combine traditional Italian techniques with modern twists, resulting in unique and memorable dishes.",
+        "image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "recipes": [
+            {
+              "id": 1,
+              "name": "Mediterranean Mezze Platter",
+              "ingredients": ["hummus", "tabbouleh", "falafel", "tzatziki", "pita bread", "olives", "grape leaves"],
+              "cooking_method": "Arrange the hummus, tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+              "rating": 4.4,
+              "image": "https://media.istockphoto.com/id/1148039529/photo/middle-eastern-arabic-or-mediterranean-appetizers-table-concept.jpg?b=1&s=170667a&w=0&k=20&c=30VebJCFK2EhPzBWYyH3WmEMEVWP4Kz1AAqvClMEosc="
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Shakshuka",
+              "ingredients": ["tomatoes", "bell peppers", "onions", "garlic", "eggs", "cumin", "paprika", "crumbled feta cheese", "fresh parsley"],
+              "cooking_method": "Arrange tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+              "rating": 4.7,
+              "image": "https://media.istockphoto.com/id/1266800901/photo/woman-preparing-shakshuka-with-poached-eggs.jpg?b=1&s=170667a&w=0&k=20&c=QZWmRwa_8LMP6BEWNtzEs9PMvWdzBFFXtqvLIubTa7c="
+            },
+            {
+              "id": 3,
+              "name": "Middle Eastern Lamb Kebabs",
+              "ingredients": ["lamb cubes", "onions", "garlic", "lemon juice", "olive oil", "cumin", "coriander", "ground cinnamon", "salt", "black pepper"],
+              "cooking_method": "In a bowl, combine lamb cubes, minced onions, minced garlic, lemon juice, olive oil, cumin, coriander, ground cinnamon, salt, and black pepper. Mix well and let marinate for at least 2 hours. Thread the marinated lamb onto skewers and grill until cooked to desired doneness. Serve with a side of yogurt sauce and warm flatbread.",
+              "rating": 4.9,
+              "image": "https://media.istockphoto.com/id/1289526128/photo/turkish-adana-kebab-with-fresh-vegetables.jpg?b=1&s=170667a&w=0&k=20&c=L6pwHJ_Q9VSfzJYgyfwiCrC2VV8BGtoHg7Qp7wnUm58="
+            }
+          ]
+      },
+      {
+        "id": 3,
+        "name": "Galeo Biachi",
+        "years_of_experience": 8,
+        "likes": 298,
+        "bio": "Galeo Biachi is a Mediterranean chef specializing in Italian and Mediterranean fusion cuisine. Growing up in the coastal region of Italy, he developed a deep appreciation for fresh seafood and bold flavors. Giorgio's culinary creations combine traditional Italian techniques with modern twists, resulting in unique and memorable dishes.",
+        "image": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipes": [
+            {
+              "id": 1,
+              "name": "Mediterranean Mezze Platter",
+              "ingredients": ["hummus", "tabbouleh", "falafel", "tzatziki", "pita bread", "olives", "grape leaves"],
+              "cooking_method": "Arrange the hummus, tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+              "rating": 4.4,
+              "image": "https://media.istockphoto.com/id/1148039529/photo/middle-eastern-arabic-or-mediterranean-appetizers-table-concept.jpg?b=1&s=170667a&w=0&k=20&c=30VebJCFK2EhPzBWYyH3WmEMEVWP4Kz1AAqvClMEosc="
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Shakshuka",
+              "ingredients": ["tomatoes", "bell peppers", "onions", "garlic", "eggs", "cumin", "paprika", "crumbled feta cheese", "fresh parsley"],
+              "cooking_method": "Arrange tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+              "rating": 4.7,
+              "image": "https://media.istockphoto.com/id/1266800901/photo/woman-preparing-shakshuka-with-poached-eggs.jpg?b=1&s=170667a&w=0&k=20&c=QZWmRwa_8LMP6BEWNtzEs9PMvWdzBFFXtqvLIubTa7c="
+            },
+            {
+              "id": 3,
+              "name": "Middle Eastern Lamb Kebabs",
+              "ingredients": ["lamb cubes", "onions", "garlic", "lemon juice", "olive oil", "cumin", "coriander", "ground cinnamon", "salt", "black pepper"],
+              "cooking_method": "In a bowl, combine lamb cubes, minced onions, minced garlic, lemon juice, olive oil, cumin, coriander, ground cinnamon, salt, and black pepper. Mix well and let marinate for at least 2 hours. Thread the marinated lamb onto skewers and grill until cooked to desired doneness. Serve with a side of yogurt sauce and warm flatbread.",
+              "rating": 4.9,
+              "image": "https://media.istockphoto.com/id/1289526128/photo/turkish-adana-kebab-with-fresh-vegetables.jpg?b=1&s=170667a&w=0&k=20&c=L6pwHJ_Q9VSfzJYgyfwiCrC2VV8BGtoHg7Qp7wnUm58="
+            }
+          ]
+      },
+      {
+        "id": 4,
+        "name": "Elena Vasquez",
+        "years_of_experience": 10,
+        "likes": 512,
+        "bio": "Elena Vasquez is a talented Mediterranean chef known for her innovative approach to cooking. With a diverse culinary background and a passion for blending flavors, Elena creates dishes that showcase the rich and vibrant Mediterranean cuisine. Her unique combinations and artistic plating make every meal an unforgettable experience.",
+        "image": "https://media.istockphoto.com/id/1394055240/photo/happy-black-female-chef-preparing-food-in-frying-pan-at-restaurant-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=8pARCDQkmc8X6SUnWQBY7MAdYVBSxbH8PBS3sJxLOiE=",
+        "recipes": [
+            {
+              "id": 1,
+              "name": "Mediterranean Mezze Platter",
+              "ingredients": ["hummus", "tabbouleh", "falafel", "tzatziki", "pita bread", "olives", "grape leaves"],
+              "cooking_method": "Arrange the hummus, tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+              "rating": 4.4,
+              "image": "https://media.istockphoto.com/id/1148039529/photo/middle-eastern-arabic-or-mediterranean-appetizers-table-concept.jpg?b=1&s=170667a&w=0&k=20&c=30VebJCFK2EhPzBWYyH3WmEMEVWP4Kz1AAqvClMEosc="
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Shakshuka",
+              "ingredients": ["tomatoes", "bell peppers", "onions", "garlic", "eggs", "cumin", "paprika", "crumbled feta cheese", "fresh parsley"],
+              "cooking_method": "Arrange tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+              "rating": 4.7,
+              "image": "https://media.istockphoto.com/id/1266800901/photo/woman-preparing-shakshuka-with-poached-eggs.jpg?b=1&s=170667a&w=0&k=20&c=QZWmRwa_8LMP6BEWNtzEs9PMvWdzBFFXtqvLIubTa7c="
+            },
+            {
+              "id": 3,
+              "name": "Middle Eastern Lamb Kebabs",
+              "ingredients": ["lamb cubes", "onions", "garlic", "lemon juice", "olive oil", "cumin", "coriander", "ground cinnamon", "salt", "black pepper"],
+              "cooking_method": "In a bowl, combine lamb cubes, minced onions, minced garlic, lemon juice, olive oil, cumin, coriander, ground cinnamon, salt, and black pepper. Mix well and let marinate for at least 2 hours. Thread the marinated lamb onto skewers and grill until cooked to desired doneness. Serve with a side of yogurt sauce and warm flatbread.",
+              "rating": 4.9,
+              "image": "https://media.istockphoto.com/id/1289526128/photo/turkish-adana-kebab-with-fresh-vegetables.jpg?b=1&s=170667a&w=0&k=20&c=L6pwHJ_Q9VSfzJYgyfwiCrC2VV8BGtoHg7Qp7wnUm58="
+            }
+          ]
+      },
+      {
+        "id": 5,
+        "name": "Giorgio Rossi",
+        "years_of_experience": 8,
+        "likes": 398,
+        "bio": "Giorgio Rossi is a passionate Mediterranean chef with a flair for Italian cuisine. Hailing from the beautiful coastal region of Amalfi, Giorgio brings the authentic flavors and traditions of the Mediterranean to his dishes. With years of experience in renowned Italian restaurants, he crafts mouthwatering creations that transport diners to the sun-kissed shores of Italy.",
+        "image": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=787&q=80",
+        "recipes": [
+            {
+              "id": 1,
+              "name": "Mediterranean Mezze Platter",
+              "ingredients": ["hummus", "tabbouleh", "falafel", "tzatziki", "pita bread", "olives", "grape leaves"],
+              "cooking_method": "Arrange the hummus, tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+              "rating": 4.4,
+              "image": "https://media.istockphoto.com/id/1148039529/photo/middle-eastern-arabic-or-mediterranean-appetizers-table-concept.jpg?b=1&s=170667a&w=0&k=20&c=30VebJCFK2EhPzBWYyH3WmEMEVWP4Kz1AAqvClMEosc="
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Shakshuka",
+              "ingredients": ["tomatoes", "bell peppers", "onions", "garlic", "eggs", "cumin", "paprika", "crumbled feta cheese", "fresh parsley"],
+              "cooking_method": "Arrange tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+              "rating": 4.7,
+              "image": "https://media.istockphoto.com/id/1266800901/photo/woman-preparing-shakshuka-with-poached-eggs.jpg?b=1&s=170667a&w=0&k=20&c=QZWmRwa_8LMP6BEWNtzEs9PMvWdzBFFXtqvLIubTa7c="
+            },
+            {
+              "id": 3,
+              "name": "Middle Eastern Lamb Kebabs",
+              "ingredients": ["lamb cubes", "onions", "garlic", "lemon juice", "olive oil", "cumin", "coriander", "ground cinnamon", "salt", "black pepper"],
+              "cooking_method": "In a bowl, combine lamb cubes, minced onions, minced garlic, lemon juice, olive oil, cumin, coriander, ground cinnamon, salt, and black pepper. Mix well and let marinate for at least 2 hours. Thread the marinated lamb onto skewers then grill until cooked to desired doneness. Serve with a side of yogurt sauce and warm flatBread.",
+              "rating": 4.9,
+              "image": "https://media.istockphoto.com/id/1289526128/photo/turkish-adana-kebab-with-fresh-vegetables.jpg?b=1&s=170667a&w=0&k=20&c=L6pwHJ_Q9VSfzJYgyfwiCrC2VV8BGtoHg7Qp7wnUm58="
+            }
+          ]
+      },
+      {
+        "id": 6,
+        "name": "Sofia Lopez",
+        "years_of_experience": 5,
+        "likes": 245,
+        "bio": "Sofia Lopez is a talented chef specializing in Mediterranean and Middle Eastern fusion cuisine. With a creative culinary background and a passion for experimenting with flavors, Sofia creates unique dishes that combine the vibrant ingredients and spices of both regions. Her innovative approach to cooking and dedication to quality make her a rising star in the culinary world.",
+        "image": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=ipTCbxl_uVkSR9fnU2K1tdgXkRbxIiKgjdCswi4rHmg=",
+        "recipes": [
+          {
+            "id": 1,
+            "name": "Mediterranean Mezze Platter",
+            "ingredients": ["hummus", "tabbouleh", "falafel", "tzatziki", "pita bread", "olives", "grape leaves"],
+            "cooking_method": "Arrange the hummus, tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+            "rating": 4.4,
+            "image": "https://media.istockphoto.com/id/1148039529/photo/middle-eastern-arabic-or-mediterranean-appetizers-table-concept.jpg?b=1&s=170667a&w=0&k=20&c=30VebJCFK2EhPzBWYyH3WmEMEVWP4Kz1AAqvClMEosc="
+          },
+          {
+            "id": 2,
+            "name": "Mediterranean Shakshuka",
+            "ingredients": ["tomatoes", "bell peppers", "onions", "garlic", "eggs", "cumin", "paprika", "crumbled feta cheese", "fresh parsley"],
+            "cooking_method": "Arrange tabbouleh, falafel, tzatziki, pita bread, olives, and grape leaves on a large platter. Serve as an appetizer or light meal, allowing guests to enjoy a variety of flavors and textures.",
+            "rating": 4.7,
+            "image": "https://media.istockphoto.com/id/1266800901/photo/woman-preparing-shakshuka-with-poached-eggs.jpg?b=1&s=170667a&w=0&k=20&c=QZWmRwa_8LMP6BEWNtzEs9PMvWdzBFFXtqvLIubTa7c="
+          },
+          {
+            "id": 3,
+            "name": "Middle Eastern Lamb Kebabs",
+            "ingredients": ["lamb cubes", "onions", "garlic", "lemon juice", "olive oil", "cumin", "coriander", "ground cinnamon", "salt", "black pepper"],
+            "cooking_method": "In a bowl, combine lamb cubes, minced onions, minced garlic, lemon juice, olive oil, cumin, coriander, ground cinnamon, salt, and black pepper. Mix well and let marinate for at least 2 hours. Thread the marinated lamb onto skewers and grill until cooked to desired doneness. Serve with a side of yogurt sauce and warm flatbread.",
+            "rating": 4.9,
+            "image": "https://media.istockphoto.com/id/1289526128/photo/turkish-adana-kebab-with-fresh-vegetables.jpg?b=1&s=170667a&w=0&k=20&c=L6pwHJ_Q9VSfzJYgyfwiCrC2VV8BGtoHg7Qp7wnUm58="
+          }
+        ]
+      }
+      
+      
+      
+      
+
+]

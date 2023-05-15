@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Greek Moussaka",
+      "image": "https://media.istockphoto.com/id/1477116225/photo/close-up-of-homemade-casserole-with-white-lasagna-with-porcini-and-champignon-mushrooms-onion.jpg?b=1&s=170667a&w=0&k=20&c=gPrexLG9yeVrJGZXaPY-LNzOlL3Zeftu6NVn0NAjlZQ="
+    },
+    {
+      "id": 2,
+      "name": "Italian Caprese Salad",
+      "image": "https://anitalianinmykitchen.com/wp-content/uploads/2019/06/caprese-salad-600-1-of-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Turkish Kebab",
+      "image": "https://cookingorgeous.com/wp-content/uploads/2021/04/shish-tawook-turkish-chicken-kebab-12.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Spanish Paella",
+      "image": "https://media.istockphoto.com/id/510244381/photo/typical-spanish-seafood-paella.jpg?s=170667a&w=0&k=20&c=uYrnYl7HEDWt9olMxHQOw1JNW2wQM_zhaeJpBFBUYRM="
+    },
+    {
+      "id": 5,
+      "name": "Lebanese Hummus",
+      "image": "https://feelgoodfoodie.net/wp-content/uploads/2018/06/Authentic-Lebanese-Hummus-09-500x500.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Moroccan Tagine",
+      "image": "https://media.istockphoto.com/id/1143191816/photo/traditional-moroccan-chicken-tagine-with-olives-and-salted-lemons.jpg?s=612x612&w=0&k=20&c=-zvRDHvWEXbnwJZDLqSo99Ahb2m53NsV-NnbHyhVwNE="
+    }
+  ]
+  
